@@ -5,10 +5,10 @@
 		<element>google_merchant</element>
 		<folder>pcf</folder>
 		<type>plugin</type>
-		<version>3.3.1</version>
-		<infourl title="Phoca Cart Feed Google Merchant Plugin 3.3.1">https://www.phoca.cz/</infourl>
+		<version>3.3.2</version>
+		<infourl title="Phoca Cart Feed Google Merchant Plugin 3.3.2">https://www.phoca.cz/</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/releases/download/3.3.1/plg_pcf_google_merchant_v3.3.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/releases/download/3.3.2/plg_pcf_google_merchant_v3.3.2.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>

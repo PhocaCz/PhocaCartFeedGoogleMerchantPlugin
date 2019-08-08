@@ -3,31 +3,31 @@
 	<fieldset>
 
 
-		<field name="g:promotion_id" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:PROMOTION_ID_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:PROMOTION_ID_DESC"/>
+		<field name="g:promotion_id" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_PROMOTION_ID_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_PROMOTION_ID_DESC"/>
 		
-		<field name="g:gtin" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:GTIN_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:GTIN_DESC"/>
+		<field name="g:gtin" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_GTIN_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_GTIN_DESC"/>
 		
 
-		<field name="g:identifier_exists" type="radio" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:IDENTIFIER_EXISTS_LABEL"
-                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:IDENTIFIER_EXISTS_DESC">
+		<field name="g:identifier_exists" type="list" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_IDENTIFIER_EXISTS_LABEL"
+                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_IDENTIFIER_EXISTS_DESC">
                 <option value="yes">PLG_PCF_GOOGLE_MERCHANT_YES</option>
                 <option value="no">PLG_PCF_GOOGLE_MERCHANT_NO</option>
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
             </field>
 			
-			<field name="g:adult" type="radio" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:ADULT_LABEL"
-                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:ADULT_DESC">
+			<field name="g:adult" type="list" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_ADULT_LABEL"
+                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_ADULT_DESC">
                 <option value="yes">PLG_PCF_GOOGLE_MERCHANT_YES</option>
                 <option value="no">PLG_PCF_GOOGLE_MERCHANT_NO</option>
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
             </field>
 			
-			<field name="g:age_group" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:AGE_GROUP_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:AGE_DESC"/>
+			<field name="g:age_group" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_GROUP_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_DESC"/>
 
-<field name="g:multipack" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:MULTIPACK_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:MULTIPACK_DESC"/>
+<field name="g:multipack" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_MULTIPACK_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_MULTIPACK_DESC"/>
 
-<field name="g:is_bundle" type="radio" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:IS_BUNDLE_LABEL"
-                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G:IS_BUNDLE_DESC">
+<field name="g:is_bundle" type="list" class="btn-group btn-group-yesno" default="" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_IS_BUNDLE_LABEL"
+                   description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_IS_BUNDLE_DESC">
                 <option value="yes">PLG_PCF_GOOGLE_MERCHANT_YES</option>
                 <option value="no">PLG_PCF_GOOGLE_MERCHANT_NO</option>
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
