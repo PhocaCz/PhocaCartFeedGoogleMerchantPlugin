@@ -22,7 +22,7 @@
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
             </field>
 			
-			<field name="g:age_group" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_GROUP_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_DESC"/>
+			<field name="g:age_group" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_GROUP_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_AGE_GROUP_DESC"/>
 
 <field name="g:multipack" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_MULTIPACK_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_MULTIPACK_DESC"/>
 
