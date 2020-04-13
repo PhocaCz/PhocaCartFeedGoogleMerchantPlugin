@@ -26,6 +26,8 @@ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart compon
 
 
 
+
+
 ## Support
 
 [Phoca Forum](https://www.phoca.cz/forum)
@@ -54,7 +56,7 @@ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart compon
 
 ## Version
 
-3.3.2
+3.5.0
 
 
 
