@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <form>
 	<fieldset>
+	
+	<field name="item_published" type="radio" class="btn-group btn-group-yesno" default="1" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_PUBLISHED_FEED_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_PUBLISHED_FEED_DESC" >
+			<option value="1">PLG_PCF_GOOGLE_MERCHANT_PUBLISHED</option>
+			<option value="0">PLG_PCF_GOOGLE_MERCHANT_UNPUBLISHED</option>
+		</field>
 
 
 		<field name="g:promotion_id" default="" size="10" type="text" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_PROMOTION_ID_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_G_PROMOTION_ID_DESC"/>
@@ -32,6 +37,8 @@
                 <option value="no">PLG_PCF_GOOGLE_MERCHANT_NO</option>
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
             </field>
+			
+			<field name="g:google_product_category" default="" size="10" type="textarea" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_GOOGLE_PRODUCT_CATEGORY_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_GOOGLE_PRODUCT_CATEGORY_DESC"/>
 
 	</fieldset>
 </form>

@@ -2,7 +2,7 @@
 
 
 
-![Phoca Cart Feed Google Merchant Plugin](https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/blob/master/google_merchant.png)
+![Phoca Cart Feed Google Merchant Plugin](https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/blob/master/google_merchant.png?raw=true)
 
 # Phoca Cart Feed Google Merchant Plugin
 
@@ -56,7 +56,7 @@ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart compon
 
 ## Version
 
-3.5.4
+3.5.5
 
 
 
