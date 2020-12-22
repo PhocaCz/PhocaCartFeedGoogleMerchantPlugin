@@ -38,7 +38,7 @@
 				<option value="">PLG_PCF_GOOGLE_MERCHANT_NO_VALUE</option>
             </field>
 			
-			<field name="g:google_product_category" default="" size="10" type="textarea" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_GOOGLE_PRODUCT_CATEGORY_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_GOOGLE_PRODUCT_CATEGORY_DESC"/>
+			<field name="g:product_type" default="" size="10" type="textarea" label="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_PRODUCT_TYPE_LABEL" description="PLG_PCF_GOOGLE_MERCHANT_FIELD_ITEM_G_PRODUCT_TYPE_DESC"/>
 
 	</fieldset>
 </form>
