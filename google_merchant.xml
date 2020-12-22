@@ -15,6 +15,7 @@
 		<folder>models</folder>
 		<filename plugin="google_merchant">google_merchant.php</filename>
 		<filename plugin="google_merchant">index.html</filename>
+		<filename plugin="google_merchant">manifest.xml</filename>
 	</files>
 
 	<languages>
