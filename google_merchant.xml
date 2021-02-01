@@ -2,7 +2,7 @@
 <extension type="plugin" group="pcf" method="upgrade" version="3.9">
 	<name>plg_pcf_google_merchant</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>22/12/2020</creationDate>
+	<creationDate>01/02/2021</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
@@ -15,7 +15,6 @@
 		<folder>models</folder>
 		<filename plugin="google_merchant">google_merchant.php</filename>
 		<filename plugin="google_merchant">index.html</filename>
-		<filename plugin="google_merchant">manifest.xml</filename>
 	</files>
 
 	<languages>
