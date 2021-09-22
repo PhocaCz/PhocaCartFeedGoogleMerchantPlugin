@@ -54,9 +54,13 @@ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart compon
 
 
 
+
+
+
+
 ## Version
 
-3.5.5
+3.5.7
 
 
 
