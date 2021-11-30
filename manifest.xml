@@ -5,10 +5,10 @@
 		<element>google_merchant</element>
 		<folder>pcf</folder>
 		<type>plugin</type>
-		<version>3.5.7</version>
-		<infourl title="Phoca Cart Feed Google Merchant Plugin 3.5.7">https://www.phoca.cz/</infourl>
+		<version>3.5.5</version>
+		<infourl title="Phoca Cart Feed Google Merchant Plugin 3.5.5">https://www.phoca.cz/</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/releases/download/3.5.7/plg_pcf_google_merchant_v3.5.7.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/releases/download/3.5.5/plg_pcf_google_merchant_v3.5.5.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
@@ -16,7 +16,27 @@
 		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
 		<maintainerurl>https://www.phoca.cz/</maintainerurl>
 		<section>Updates</section>
-		<targetplatform name="joomla" version="3.9"/>
+		<targetplatform name="joomla" version="3.([89]|10)"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name><![CDATA[ Phoca Cart Feed Google Merchant Plugin ]]></name>
+		<description><![CDATA[ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart component. Extends XML Feed with new Google Merchant elements. ]]></description>
+		<element>google_merchant</element>
+		<folder>pcf</folder>
+		<type>plugin</type>
+		<version>4.0.0</version>
+		<infourl title="Phoca Cart Feed Google Merchant Plugin 4.0.0">https://www.phoca.cz/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedGoogleMerchantPlugin/releases/download/4.0.0/plg_pcf_google_merchant_v4.0.0.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
+		<maintainerurl>https://www.phoca.cz/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="4.[0]"/>
 		<client>site</client>
 	</update>
 </updates>
