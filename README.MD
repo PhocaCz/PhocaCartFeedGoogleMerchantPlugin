@@ -56,11 +56,11 @@ Phoca Cart Feed - Google Merchant plugin - XML feed plugin for Phoca Cart compon
 
 ## Version (Joomla! 3.x)
 
-3.5.5
+3.5.7
 
 ## Version (Joomla! 4.x)
 
-4.0.0
+4.0.1
 
 
 
